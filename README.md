@@ -22,5 +22,5 @@ The purpose of this project was to conduct an Exploratory Data Analysis [(EDA)](
 - China had a 813.42% increase in GDP from 2000 - 2015.
 - Chile had a 211.48% increase in GDP from 2000 - 2015.
 - Zimbabwe had a 143.72% in GDP from 2000 - 2015.
-- The Chinese economy grew at an average annual rate of 16%
+- The Chinese economy grew at an average annual rate of 16% from 2000 - 2015
 - GDP and Life Expectancy exibit a modest positive correlation at the global level (for the 6 countries involved) however, at the individual country level the correlation is much more pronounced. See [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)
