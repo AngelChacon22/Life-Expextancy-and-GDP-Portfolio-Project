@@ -15,3 +15,11 @@ The purpose of this project was to conduct an Exploratory Data Analysis [(EDA)](
 - Life Expectancy: measured in years.
 - GDP: measured in $USD
 - Year: data from 2000 - 2015
+
+## **Notable Findings:**
+- Zimbabwe had a 31.96% increase in life expectancy from 2000 - 2015
+- U.S. and Chinese economies display a high degree of correlation.
+- China had a 813.42% increase in GDP from 2000 - 2015.
+- Chile had a 211.48% increase in GDP from 2000 - 2015.
+- Zimbabwe had a 143.72% in GDP from 2000 - 2015.
+- GDP and Life Expectancy exibit a modest positive correlation at the global level (for the 6 countries involved) however, at the individual country level the correlation is much more pronounced. See [Ecological Fallacy](https://en.wikipedia.org/wiki/Ecological_fallacy)
